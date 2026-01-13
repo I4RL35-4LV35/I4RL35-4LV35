@@ -4,7 +4,7 @@ Atualmente, trabalho como Monitor de Tecnologia Educacional no Colégio Ari de S
 
 <div>
   <a href="https://github.com/I4RL35-4LV35">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=I4RL35-4LV35&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=I4RL35-4LV35&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
