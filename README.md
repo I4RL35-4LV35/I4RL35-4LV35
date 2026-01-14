@@ -1,4 +1,4 @@
-## Olá, Iarles aqui 💻
+## Olá, eu sou Iarles 👋
 
 Atualmente, trabalho como Monitor de Tecnologia Educacional no Colégio Ari de Sá Cavalcante e estou graduando em Sistemas de Informação pela Estácio 3/8.
 
