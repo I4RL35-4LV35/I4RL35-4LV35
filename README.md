@@ -9,7 +9,8 @@ Atualmente, trabalho como **Monitor de Tecnologia Educacional** no **Colégio Ar
 
 <div>
   <a href="https://github.com/I4RL35-4LV35">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=i4rl35-4lv35&show_icons=true&theme=transparent"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=i4rl35-4lv35&show_icons=true&theme=tokyonight&rank_icon=github"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i4rl35-4lv35&layout=compact&theme=tokyonight&show_icons=true"/>
 </div>
 
 ## 🛠️ Tecnologias
