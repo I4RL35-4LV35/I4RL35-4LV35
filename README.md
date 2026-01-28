@@ -1,6 +1,6 @@
 ## Olá, eu sou Iarles 👋
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjluOXp2M2hqMjFkMDgxYWx5cDNpdmxlbTFtYWJ1cDM5MDhpaTVmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7gdwW1UOWyRlVYpwt/giphy.gif" width="100" align="right">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjluOXp2M2hqMjFkMDgxYWx5cDNpdmxlbTFtYWJ1cDM5MDhpaTVmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7gdwW1UOWyRlVYpwt/giphy.gif" width="200" align="right">
 
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Desenvolvedor+Front-End+" alt="Typing SVG" /></a>
